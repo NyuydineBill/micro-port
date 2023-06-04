@@ -29,10 +29,10 @@ const siteProps = {
   email: "billleynyuy@gmail.com",
   gitHub: "github.com/NyuydineBill",
   instagram: "microsoft",
-  linkedIn: "satyanadella",
+  linkedIn: "https://www.linkedin.com/mwlite/in/nyuydine-bill-362701257",
   medium: "",
   twitter: "microsoft",
-  youTube: "Code",
+  youTube: "youtube.com/@nyuydinebill",
 };
 
 const primaryColor = "#4E567E";
