@@ -25,9 +25,9 @@ import "./styles.css";
  */
 const siteProps = {
   name: "Nyuydine Bill",
-  title: "Web Designer & Content Creator",
-  email: "alex@example.com",
-  gitHub: "microsoft",
+  title: "Web Developer and Software Engineer",
+  email: "billleynyuy@gmail.com",
+  gitHub: "github.com/NyuydineBill",
   instagram: "microsoft",
   linkedIn: "satyanadella",
   medium: "",
