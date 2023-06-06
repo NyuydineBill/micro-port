@@ -27,12 +27,12 @@ const siteProps = {
   name: "Nyuydine Bill",
   title: "Web Developer and Software Engineer",
   email: "billleynyuy@gmail.com",
-  gitHub: "github.com/NyuydineBill",
+  gitHub: "NyuydineBill",
   instagram: "microsoft",
-  linkedIn: "https://www.linkedin.com/mwlite/in/nyuydine-bill-362701257",
+  linkedIn: "mwlite/in/nyuydine-bill-362701257",
   medium: "",
   twitter: "microsoft",
-  youTube: "youtube.com/@nyuydinebill",
+  youTube: "@nyuydinebill",
 };
 
 const primaryColor = "#4E567E";
