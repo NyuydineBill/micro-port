@@ -29,7 +29,7 @@ const siteProps = {
   email: "billleynyuy@gmail.com",
   gitHub: "NyuydineBill",
   instagram: "nyuydinebill",
-  linkedIn: "nyuydine-bill-362701257",
+  linkedIn: "/in/nyuydine-bill-362701257",
   medium: "",
   twitter: "bill leynyuy",
   youTube: "@nyuydinebill",
