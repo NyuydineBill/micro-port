@@ -31,29 +31,54 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Student Study Portal System🎉",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Online study platform where students from across the world can learn and clearify their doubts. I contains features such as ; Notes,HomeWorks, Todo, Assignments, Wikipedia, Youtube, Calculator and lots of other funtionalities",
+    url: "https://github.com/NyuydineBill",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Transport management System",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "A ticket reservation system where travellers can book bus tickets and seat positions specified.",
+    url: "https://github.com/NyuydineBill",
+  },
+  {
+    title: "RealTime Chat Application",
+    description:
+      "An application that permits one to one or one to many or many to many realtime interations ",
+    url: "https://github.com/NyuydineBill",
+  },
+{
+    title: "Social Media Site",
+    description:
+      "A simple social media site with features more like that of facebook and instagram ",
+    url: "https://github.com/NyuydineBill",
   },
   {
     title: "My Resume Site",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "A platform where users can create their digital resumes and use for job applications.",
+    url: "https://github.com/NyuydineBill",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Weather Detector App",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "An application which gives the user his/her current weather details, including the current city,temperature,humidity and so many other details.",
+    url: "https://github.com/NyuydineBill",
   },
+  {
+    title: "URL Shortener",
+    description:
+      "A site which gets long URL's from the user and makes it shorter but still referencing it to the intended address.",
+    url: "https://github.com/NyuydineBill",
+  },
+  {
+    title: "Health Ease application",
+    description:
+      "Collaborated with Flutter developers to realise a health application which has features such as ; Online consultaion, First Aid, Healtj Survey, Tips and a community Forum.",
+    url: "https://github.com/NyuydineBill",
+  },
+
 ];
 
 const Portfolio = () => {
