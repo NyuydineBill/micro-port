@@ -28,10 +28,10 @@ const siteProps = {
   title: "Web Developer and Software Engineer",
   email: "billleynyuy@gmail.com",
   gitHub: "NyuydineBill",
-  instagram: "microsoft",
-  linkedIn: "mwlite/in/nyuydine-bill-362701257",
+  instagram: "nyuydinebill",
+  linkedIn: "nyuydine-bill-362701257",
   medium: "",
-  twitter: "microsoft",
+  twitter: "bill leynyuy",
   youTube: "@nyuydinebill",
 };
 
